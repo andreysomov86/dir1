@@ -1,0 +1,18 @@
+body {
+	background: red;
+	height: 200px;
+}
+
+a{
+	color: #eee;
+}
+
+strong {
+	color: #eee;
+}
+
+@media screen and (max-width: 200px) {
+	html {
+		font-size: 18px;
+	}
+}
